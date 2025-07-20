@@ -3,7 +3,7 @@
 > 基于 Logisim 的四位四进制数字密码锁硬件设计
 
 [![Logisim](https://img.shields.io/badge/Logisim-Circuit%20Design-blue.svg)](https://logisim.altervista.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENCE)
 
 一个使用 Logisim 实现的四位四进制数字密码锁系统，具有完整的密码验证、LED 显示、防抖处理等功能。
 如果有问题或建议，欢迎提交 Issues 。如果觉得这个项目对你有帮助或启发，欢迎 **Star** 支持！
