@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 一个使用 Logisim 实现的四位四进制数字密码锁系统，具有完整的密码验证、LED 显示、防抖处理等功能。
+如果有问题或建议，欢迎提交 Issues 。如果觉得这个项目对你有帮助或启发，欢迎 **Star** 支持！
 
 ## 基本功能
 
@@ -52,3 +53,8 @@
 ![Top Circuit Diagram](./images/top.png)
 
 *高度封装的顶层电路，便于整体功能的实现和展示，以及团队成员的署名*
+
+## 注意
+
+如果在TOP中没看到LED点阵，有可能是因为被main模块覆盖了，可以如图单独选择点阵模块然后`Ctrl + X`，再`Ctrl + V`把它粘贴回来置于顶层。
+![issue](images/issue.png)
